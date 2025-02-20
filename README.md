@@ -54,7 +54,7 @@ Sinta-se à vontade para contribuir! Basta seguir os passos:
 
 ## Contato
 Caso tenha dúvidas ou precise de suporte, entre em contato:
-📧 Email: guilhermeabtibol@gmail.com
+📧 Email: guiabtibol@gmail.com
 
 ## Licença
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
